@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hei og velkommen!
 
-<!--
-**rmk062026/rmk062026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jeg studerer IT-utvikling gjennom **Kodehode**, med hovedfokus på backend-utvikling.
 
-Here are some ideas to get you started:
+Denne GitHub-profilen brukes til skoleoppgaver, øvelser og prosjekter underveis i utdanningen.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Teknologier jeg jobber med
+- **Språk:** C#, SQL
+- **Rammeverk:** .NET, ASP.NET Core
+- **Databaser:** MySQL, SQL Server
+- **Verktøy:** Visual Studio, Git og GitHub
+- **Metodikk:** OOP, TDD og enhetstesting
+- **Utvikling:** REST API-er og backend-systemer
+
+### 🌱 Dette utforsker jeg videre
+- Backend-utvikling og systemarkitektur
+- DevOps og CI/CD
+- Linux, Docker og Azure
+- Automatisering og testing
+
+### 📂 Om denne profilen
+Her finner du blant annet:
+- Oppgaver og innleveringer fra Kodehode
+- Praktiske kodeøvelser
+- Små og større læringsprosjekter
+- Eksperimentering med nye teknologier
+
+---
+
+*Lærer gjennom teori, praktisk arbeid og egne prosjekter.*
