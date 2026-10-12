@@ -8,7 +8,7 @@ Denne GitHub-profilen brukes til skoleoppgaver, øvelser og prosjekter underveis
 - **Språk:** C#, SQL
 - **Rammeverk:** .NET, ASP.NET Core
 - **Databaser:** MySQL, SQL Server
-- **Verktøy:** Visual Studio, Git og GitHub
+- **Verktøy:** Visual Studio, VSCode, Git og GitHub
 - **Metodikk:** OOP, TDD og enhetstesting
 - **Utvikling:** REST API-er og backend-systemer
 
